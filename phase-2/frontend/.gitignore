@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env*.local
+.env.production.local
+.env.development.local
+
+# Next.js
+.next/
+out/
+
+# Next.js build output
+.next
+dist
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Temporary folders
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Lock files
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Local configuration files
+*.local
+
+# IDE files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+
+# Build outputs
+build/
+.nuxt
+coverage/
+
+# Environment specific files
+.env.local
+.env.*.local
+!.env.example
