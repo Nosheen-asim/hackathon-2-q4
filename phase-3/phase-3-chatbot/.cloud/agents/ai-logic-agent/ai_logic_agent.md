@@ -1,0 +1,1 @@
+Uses OpenAI Agents SDK to interpret user intent, select correct tools, access documentation, and navigate the .cloud folder structure. Routes user requests to the appropriate agents based on intent analysis and maintains proper integration with all other agents in the system.

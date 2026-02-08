@@ -1,0 +1,1 @@
+Manages chat sessions and message storage. Creates new conversations when needed, retrieves previous messages, and stores assistant and user messages in the database. Ensures conversation continuity without holding memory in server RAM. Supports resume-after-restart functionality.

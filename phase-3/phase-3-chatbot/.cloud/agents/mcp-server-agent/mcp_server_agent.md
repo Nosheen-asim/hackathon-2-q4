@@ -1,0 +1,1 @@
+Responsible for exposing MCP tools such as add_task, list_tasks, complete_task, delete_task, and update_task. Ensures that each tool interacts securely with the database and returns structured responses. Acts as the bridge between AI logic and database operations. Maintains stateless architecture and guarantees reliability and scalability.

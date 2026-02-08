@@ -1,0 +1,1 @@
+Handles natural language conversation with the user. Understands commands like add, delete, update, complete, and list tasks. Maintains conversational tone, confirms actions, and ensures that every request is routed to MCP tools correctly. Fetches conversation history from database and builds context for each request while keeping the server stateless.

@@ -1,0 +1,1 @@
+Performs all CRUD operations related to tasks through MCP tools. Validates user ownership, ensures data accuracy, and enforces business logic such as title limits and completion toggling. Works closely with database agent to guarantee data integrity and isolation per user.
